@@ -1,0 +1,10 @@
+{
+    "$id": "zendeskArticlesWithPermissions",
+    "$schema": "https://schema.yext.com/config/platform/plugin/v1",
+    "globals": {
+        "zendeskSubdomain": "${{zendeskSubdomain}}",
+        "zendeskLocale": "${{zendeskLocale}}",
+        "zendeskUsername": "${{zendeskUsername}}",
+        "zendeskPassword": "${{zendeskPassword}}"
+    }
+  }
